@@ -1,0 +1,34 @@
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.AssemblyReference.cache
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab_1.Form1.resources
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.GenerateResource.cache
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.AssemblyInfoInputs.cache
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.AssemblyInfo.cs
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.exe
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.deps.json
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.runtimeconfig.json
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.dll
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.pdb
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.dll
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\refint\Lab 1.dll
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.pdb
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.genruntimeconfig.cache
+C:\Users\gnatu\source\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\ref\Lab 1.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.exe
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.deps.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.runtimeconfig.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\bin\Debug\net6.0-windows\Lab 1.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.AssemblyReference.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab_1.Form1.resources
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.GenerateResource.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.AssemblyInfoInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.AssemblyInfo.cs
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.csproj.CoreCompileInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\refint\Lab 1.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\Lab 1.genruntimeconfig.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 1\obj\Debug\net6.0-windows\ref\Lab 1.dll
