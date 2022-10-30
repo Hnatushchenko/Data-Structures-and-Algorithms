@@ -1,0 +1,17 @@
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\bin\Debug\net6.0-windows\Lab 10.exe
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\bin\Debug\net6.0-windows\Lab 10.deps.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\bin\Debug\net6.0-windows\Lab 10.runtimeconfig.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\bin\Debug\net6.0-windows\Lab 10.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\bin\Debug\net6.0-windows\Lab 10.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.csproj.AssemblyReference.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab_10.Form1.resources
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.csproj.GenerateResource.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.AssemblyInfoInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.AssemblyInfo.cs
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.csproj.CoreCompileInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\refint\Lab 10.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\Lab 10.genruntimeconfig.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 10 Binary search\obj\Debug\net6.0-windows\ref\Lab 10.dll

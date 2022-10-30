@@ -1,0 +1,34 @@
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\bin\Debug\net6.0-windows\Lab 6.exe
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\bin\Debug\net6.0-windows\Lab 6.deps.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\bin\Debug\net6.0-windows\Lab 6.runtimeconfig.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\bin\Debug\net6.0-windows\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\bin\Debug\net6.0-windows\Lab 6.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.csproj.AssemblyReference.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab_10.Form1.resources
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.csproj.GenerateResource.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.AssemblyInfoInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.AssemblyInfo.cs
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.csproj.CoreCompileInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\refint\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\Lab 6.genruntimeconfig.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6\obj\Debug\net6.0-windows\ref\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\bin\Debug\net6.0-windows\Lab 6.exe
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\bin\Debug\net6.0-windows\Lab 6.deps.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\bin\Debug\net6.0-windows\Lab 6.runtimeconfig.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\bin\Debug\net6.0-windows\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\bin\Debug\net6.0-windows\Lab 6.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.csproj.AssemblyReference.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab_10.Form1.resources
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.csproj.GenerateResource.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.AssemblyInfoInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.AssemblyInfo.cs
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.csproj.CoreCompileInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\refint\Lab 6.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\Lab 6.genruntimeconfig.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 6 Counting sort\obj\Debug\net6.0-windows\ref\Lab 6.dll
