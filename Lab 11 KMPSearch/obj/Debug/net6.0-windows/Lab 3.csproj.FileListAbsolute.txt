@@ -1,0 +1,17 @@
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.csproj.AssemblyReference.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab_11.Form1.resources
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.csproj.GenerateResource.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.AssemblyInfoInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.AssemblyInfo.cs
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.csproj.CoreCompileInputs.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\bin\Debug\net6.0-windows\Lab 3.exe
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\bin\Debug\net6.0-windows\Lab 3.deps.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\bin\Debug\net6.0-windows\Lab 3.runtimeconfig.json
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\bin\Debug\net6.0-windows\Lab 3.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\bin\Debug\net6.0-windows\Lab 3.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\refint\Lab 3.dll
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.pdb
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\Lab 3.genruntimeconfig.cache
+G:\Other computers\Мій ноутбук\repos\C#\ADS\Lab 3\obj\Debug\net6.0-windows\ref\Lab 3.dll
